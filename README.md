@@ -28,7 +28,7 @@ Each notebook covers:
 🧠 Practice exercises
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/marooflone74/PYTHON-PROGRAMMING.git
 2. Install Required Tools
 
 Make sure you have Python and Jupyter Notebook installed:
